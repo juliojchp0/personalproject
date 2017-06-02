@@ -1,0 +1,32 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 06-mar-2014, 17:50:48
+    Author     : Julio Jose
+*/
+body{
+    
+    background-color: blue;
+    color:white;
+    
+}
+a{
+    
+    color:white;
+    
+}
+body{
+    
+    background-image:url(../images/fondo_verde.jpg);
+}
+table{
+    
+    position:absolute;
+    top:150px;
+    left:500px;
+    background-color:green;
+    
+}

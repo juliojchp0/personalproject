@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractPasswordHasher.php" server="ftp.phpnet.us" local="130322942860000000" remote="131230689600000000" Dst="1" />
+<file name="ActionsAuthorize.php" server="ftp.phpnet.us" local="130322942860000000" remote="131230689600000000" Dst="1" />
+<file name="BaseAuthenticate.php" server="ftp.phpnet.us" local="130322942860000000" remote="131230689600000000" Dst="1" />
+<file name="BaseAuthorize.php" server="ftp.phpnet.us" local="130322942860000000" remote="131230689600000000" Dst="1" />
+<file name="BasicAuthenticate.php" server="ftp.phpnet.us" local="130322942860000000" remote="131230689600000000" Dst="1" />
+<file name="BlowfishAuthenticate.php" server="ftp.phpnet.us" local="130322942860000000" remote="131230689600000000" Dst="1" />
+<file name="BlowfishPasswordHasher.php" server="ftp.phpnet.us" local="130322942860000000" remote="131230689600000000" Dst="1" />
+<file name="ControllerAuthorize.php" server="ftp.phpnet.us" local="130322942860000000" remote="131230689600000000" Dst="1" />
+<file name="CrudAuthorize.php" server="ftp.phpnet.us" local="130322942860000000" remote="131230689600000000" Dst="1" />
+<file name="DigestAuthenticate.php" server="ftp.phpnet.us" local="130322942860000000" remote="131230689600000000" Dst="1" />
+<file name="FormAuthenticate.php" server="ftp.phpnet.us" local="130322942860000000" remote="131230689600000000" Dst="1" />
+<file name="SimplePasswordHasher.php" server="ftp.phpnet.us" local="130322942860000000" remote="131230689600000000" Dst="1" />
+</dwsync>
